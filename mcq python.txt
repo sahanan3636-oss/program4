@@ -1,0 +1,39 @@
+1. Which of the following best describes the main use of a 'while' loop in Python?
+Selected answer is correct
+
+To execute a block of code repeatedly as long as a condition is true
+Why is this correct?
+A 'while' loop continues to execute its block as long as the given condition evaluates to True, making it suitable for situations where the number of iterations isn't known in advance.
+ 2. What is the correct way to declare and initialize a variable in Python?
+Selected answer is correct
+
+x = 5
+Why is this correct?
+Python does not require explicit variable declaration; you simply assign a value to a variable name using the '=' operator.
+ 3. Which statement about Python 'if-else' conditional statements is correct?
+Selected answer is correct
+
+An 'if' statement can be used without an 'else' or 'elif' clause
+Why is this correct?
+The 'if' statement can stand alone; 'else' and 'elif' are optional and used for additional branches.
+ 4. Consider the following code snippet:
+
+x = 10
+y = 20
+if x > y:
+    print('x is greater')
+else:
+    print('y is greater')
+
+What will be the output?
+Selected answer is correct
+
+y is greater
+Why is this correct?
+Since x (10) is not greater than y (20), the else block executes and 'y is greater' is printed.
+ 5. Which of the following is the most appropriate use case for a 'for' loop in Python?
+Selected answer is correct
+
+Executing a block of code for each item in a sequence
+Why is this correct?
+'For' loops in Python are typically used to iterate over elements in sequences like lists, strings, or ranges.
